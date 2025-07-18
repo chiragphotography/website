@@ -10,7 +10,7 @@ interface PhotoItem {
 export const photoItems: PhotoItem[] = [
     // Column 1 - Shorter images at top, taller at bottom
     {
-      src: "/Homepage/DSC_9025.JPG",
+      src: "/Homepage/DSC_9025.jpg",
       alt: "Indian wedding ceremony",
       height: "h-64",
       text: "Dream Wedding",
