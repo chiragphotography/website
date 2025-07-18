@@ -10,7 +10,7 @@ interface PhotoItem {
 export const photoItems: PhotoItem[] = [
     // Column 1 - Shorter images at top, taller at bottom
     {
-      src: "https://images.unsplash.com/photo-1583391733956-6c78276477e2?w=800&h=600&fit=crop",
+      src: "/Homepage/DSC_9025.JPG",
       alt: "Indian wedding ceremony",
       height: "h-64",
       text: "Dream Wedding",

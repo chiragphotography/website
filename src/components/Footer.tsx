@@ -1,5 +1,5 @@
 import { motion, type Variants } from "framer-motion"
-import { Instagram, Facebook, Twitter, Mail, Phone, MapPin} from "lucide-react"
+import { Instagram, Facebook, Mail, Phone, MapPin} from "lucide-react"
 
 const socialLinks = [
   { icon: Instagram, href: "#", label: "Instagram", color: "hover:text-pink-400" },
