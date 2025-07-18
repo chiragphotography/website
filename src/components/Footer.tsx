@@ -2,7 +2,7 @@ import { motion, type Variants } from "framer-motion"
 import { Instagram, Facebook, Mail, Phone, MapPin} from "lucide-react"
 
 const socialLinks = [
-  { icon: Instagram, href: "#", label: "Instagram", color: "hover:text-pink-400" },
+  { icon: Instagram, href: "https://www.instagram.com/chiragphotographyrohtak?igsh=MTJ2eHI4MGI1czlseQ==", label: "Instagram", color: "hover:text-pink-400" },
   { icon: Facebook, href: "#", label: "Facebook", color: "hover:text-blue-400" },
 ]
 const services = [
