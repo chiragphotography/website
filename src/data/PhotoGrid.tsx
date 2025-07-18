@@ -11,9 +11,9 @@ export const photoItems: PhotoItem[] = [
     // Column 1 - Shorter images at top, taller at bottom
     {
       src: "/Homepage/DSC_9025.jpg",
-      alt: "Indian wedding ceremony",
+      alt: "Aman's baby shoot",
       height: "h-64",
-      text: "Dream Wedding",
+      text: "Baby Shoot",
       animation: "left",
       originalIndex: 0,
     },
